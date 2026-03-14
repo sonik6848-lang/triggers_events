@@ -1,6 +1,6 @@
 name: My first Workflow
 on:
-    Workflow_dispatch:
+    workflow_dispatch:
 
     push:
         branches:
